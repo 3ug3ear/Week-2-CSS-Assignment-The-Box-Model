@@ -66,6 +66,10 @@ p {
 }
 
 #text-intro {
+	padding:20px; 
+	margin: 20px;
+	border: 2px solid red;
 	color: red;
+	background-color:  rgb(80, 80, 80);
 	
 }
