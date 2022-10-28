@@ -39,6 +39,11 @@ p {
 }
 
 .album-art {
+	border: 2px solid red;
+	padding: 20px;
+	margin: 40px;
+	float: left;
+	width: 10%;
 
 }
 
@@ -47,10 +52,14 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-	
+	border: 2px solid red;
+	padding: 20px;
+	margin: 40px;
+	float: left;
 }
 
 .record-label {
+	color: red;
 
 }
 
