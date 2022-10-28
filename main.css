@@ -24,15 +24,16 @@ h1 {
 h2 {
 	font-size: 1.75em;
 	margin-left: 15px;
+	margin-top: 40px;
 }
 
 h3 {
 	font-size: 1.5em;
+	margin-left: 15px;
 }
 
 p {
-	width: 85%;
-
+	margin: 20px;
 	
 
 }
@@ -60,7 +61,7 @@ p {
 #about-photo {
 	border: 2px solid red;
 	padding: 20px;
-	margin: 20px;
+	margin: 40px;
 	float: left;
 	
 
